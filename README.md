@@ -12,7 +12,7 @@ This is a PowerShell wrapper for the [ConnectWise ScreenConnect RESTful API Mana
 
 The underlying structure of this wrapper, module and repository are brought here from [christaylorcodes](https://github.com/christaylorcodes/)'s design of [ConnectWiseManageAPI](https://github.com/christaylorcodes/ConnectWiseManageAPI). Chris also has a wrapper for 'ConnectWise Control' but it no longer works and I couldn't be bothered figured out why.
 
-The LICENSE.CW is his original MIT License.
+The LICENSE.CW is their original MIT License.
 
 ## Install & Run
 
@@ -30,7 +30,7 @@ Import-Module .\Path.To\ConnectWiseScreenConnectAPI.psm1
 
 - Configure ScreenConnect with the RESTful API Manager
 
-Follow the instructions on the (ConnectWise ScreenConnect RESTful API Manager)[https://docs.connectwise.com/ScreenConnect_Documentation/Developers/RESTful_API_Manager] documentation page.
+Follow the instructions on the [ConnectWise ScreenConnect RESTful API Manager](https://docs.connectwise.com/ScreenConnect_Documentation/Developers/RESTful_API_Manager) documentation page.
 
 ## Usage
 
